@@ -1,16 +1,18 @@
-## Hi there 👋
+## Bem Vindos ao Meu Perfil Rapaziadinha do Mal 🔥
 
-<!--
-**Mat2312/Mat2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Matheus Henrique 
 
-Here are some ideas to get you started:
+- Sou Participante do Trio do Pedal
+- Estou estudando no Alura
+- Estou desenvolvendo a linguagem JavaScript
+- Utilizo este espaço para organizar e compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Uma Bela Musica para Alegrar seu Dia 🎵
+
+🎵"É O TRIO DO PEDAL, É TRIO DO PEDAL, JA FICA ESPERTO SE NÃO VOU..."🎵
+
+  ### Você Pode Entrar em Contato Comigo 📧
+
+  00001089839078sp@al.educacao.sp.gov.br
+
+  ![](https://media.tenor.com/PKKCAakpBZIAAAAM/neyney-neymar.gif)
